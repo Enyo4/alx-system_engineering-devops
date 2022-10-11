@@ -1,0 +1,2 @@
+$PATH=/bin::::/home:/usr:::::/h#!/bin/bash
+find PATH -type d | wc -l
